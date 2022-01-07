@@ -1,1 +1,1 @@
-export const menus = ["menu 1", "menu 2", "menu 3", "menu 4", "menu 5"];
+export const menus = ["Trang chủ", "Tuyển sinh", "Chương trình đào tạo", "Góc sinh viên", "Tuyển dụng"];
